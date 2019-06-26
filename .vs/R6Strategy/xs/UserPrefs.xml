@@ -1,0 +1,67 @@
+﻿<Properties StartupConfiguration="{6B25742A-48AE-2F5B-36FC-325F299A5C1C}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MainMenu.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MapItem.cs" Line="30" Column="41" />
+      <File FileName="Assets/Scripts/MapListScrollview.cs" Line="46" Column="1" />
+      <File FileName="Assets/Scripts/MapObj.cs" Line="91" Column="14" />
+      <File FileName="Assets/Scripts/DataObj.cs" Line="30" Column="33" />
+      <File FileName="Assets/Scripts/ControlObject.cs" Line="58" Column="1" />
+      <File FileName="Assets/Scripts/CommonControl.cs" Line="676" Column="14" />
+      <File FileName="Assets/Scripts/OperatorChoose.cs" Line="113" Column="36" />
+      <File FileName="Assets/Scripts/stepDetailPAnel.cs" Line="76" Column="28" />
+      <File FileName="Assets/Scripts/CommonData.cs" Line="85" Column="39" />
+      <File FileName="Assets/Scripts/HandelAction.cs" Line="77" Column="33" />
+      <File FileName="Assets/Scripts/MainMenu.cs" Line="97" Column="19" />
+      <File FileName="Assets/Scripts/OperatorData.cs" Line="5" Column="14" />
+      <File FileName="Assets/Scripts/InputPanelAction.cs" Line="38" Column="68" />
+      <File FileName="Assets/Scripts/StepBtn.cs" Line="23" Column="1" />
+      <File FileName="Assets/Scripts/StepContent.cs" Line="48" Column="71" />
+      <File FileName="Assets/Scripts/DetailStepScrollview.cs" Line="68" Column="21" />
+      <File FileName="Assets/Scripts/DetailStep.cs" Line="6" Column="14" />
+      <File FileName="Assets/Scripts/PivotHelper.cs" Line="14" Column="18" />
+      <File FileName="Assets/Scripts/ArrowControl.cs" Line="35" Column="10" />
+      <File FileName="Assets/Parse.Unity/link.xml" Line="16" Column="1" />
+      <File FileName="Assets/Scripts/StrategyDetailList.cs" Line="64" Column="38" />
+      <File FileName="Assets/Scripts/StrategyList.cs" Line="85" Column="10" />
+      <File FileName="Assets/Scripts/UnityMainThreadDispatcher.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UserControl.cs" Line="146" Column="22" />
+      <File FileName="Assets/Scripts/StrategyDetailItem.cs" Line="34" Column="6" />
+      <File FileName="Assets/Scripts/StrategyItem.cs" Line="19" Column="37" />
+      <File FileName="Assets/Scripts/CommentScrollList.cs" Line="26" Column="39" />
+      <File FileName="Assets/Scripts/CommentItem.cs" Line="15" Column="11" />
+      <File FileName="Assets/Scripts/ControlCamera.cs" Line="69" Column="64" />
+      <File FileName="Assets/Scripts/RoomData.cs" Line="30" Column="18" />
+      <File FileName="Assets/Scripts/MapLanguage.cs" Line="28" Column="33" />
+      <File FileName="Assets/Scripts/UserCenterLanguage.cs" Line="45" Column="28" />
+      <File FileName="Assets/Scripts/JoinRoomNow.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DpScanMap.cs" Line="184" Column="29" />
+      <File FileName="Assets/Scripts/Translator.cs" Line="142" Column="1" />
+      <File FileName="Assets/Photon/PhotonRealtime/Demos/DemoLoadBalancing/ConnectAndJoinRandomLb.cs" Line="32" Column="29" />
+      <File FileName="Assets/Photon/PhotonRealtime/Code/ConnectionHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Photon/PhotonRealtime/Code/LoadBalancingClient.cs" Line="2984" Column="22" />
+      <File FileName="Assets/Photon/PhotonRealtime/Code/LoadbalancingPeer.cs" Line="1726" Column="18" />
+      <File FileName="Assets/Photon/PhotonRealtime/Code/RoomInfo.cs" Line="77" Column="26" />
+      <File FileName="Assets/Photon/PhotonRealtime/Code/Player.cs" Line="40" Column="18" />
+      <File FileName="Assets/Scripts/PaintOnMap.cs" Line="421" Column="13" />
+      <File FileName="Assets/Scripts/OperatorList.cs" Line="44" Column="40" />
+      <File FileName="Assets/Scripts/OperatorItem.cs" Line="57" Column="57" />
+      <File FileName="Assets/Scripts/Weapon.cs" Line="95" Column="57" />
+      <File FileName="Assets/Scripts/Equipment.cs" Line="40" Column="28" />
+      <File FileName="Assets/Scripts/OperatorDetailPanel.cs" Line="207" Column="21" />
+      <File FileName="Assets/Scripts/VideoBtn.cs" Line="69" Column="10" />
+      <File FileName="Assets/Scripts/VideoScroll.cs" Line="100" Column="44" />
+      <File FileName="Assets/Scripts/StrategyItemOperator.cs" Line="40" Column="1" />
+      <File FileName="Assets/Scripts/ParseInit.cs" Line="21" Column="55" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>../../../../../Downloads/Parse-SDK-dotNET-master/Parse/Parse.csproj</String>
+  </DisabledProjects>
+</Properties>
